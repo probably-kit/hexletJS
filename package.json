@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/probably-kit/hexletJS/issues"
   },
-  "homepage": "https://github.com/probably-kit/hexletJS#readme"
+  "homepage": "https://github.com/probably-kit/hexletJS#readme",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "prettier": "^2.4.1"
+  }
 }
